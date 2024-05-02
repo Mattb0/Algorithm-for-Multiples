@@ -7,16 +7,16 @@ This algorithm generates a series of ascending numbers that are multiples of 2, 
 ## Example
 
 Consider a series of ascending order that only consists of numbers that can be factored by any combination of 2, 3, and 5:
-
-1. 1 
-2. 2
-3. 3
-4. 4 = 2 * 2
-5. 5
-6. 6 = 2 * 3
-7. 8 = 2 * 2 * 2
-8. 9 = 3 * 3
-9. 10 = 2 * 5
+```
+1 
+2
+3
+4 = 2 * 2
+5
+6 = 2 * 3
+8 = 2 * 2 * 2
+9 = 3 * 3
+10 = 2 * 5```
 
 ## Implementation
 
